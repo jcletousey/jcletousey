@@ -10,7 +10,7 @@
 
 I have [my own place](https://jcletousey.dev/) where I experiment and blog sometimes.
 
-You can also find me on <a href="https://indieweb.social/@jcletousey" rel="me">Mastodon</a>.
+You can also find me on <a href="https://indieweb.social/@jcletousey" rel="nofollow me">Mastodon</a>.
 
 <!---
 jcletousey/jcletousey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
